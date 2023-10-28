@@ -19,10 +19,10 @@
 
 <div style = "display:inline-block">
 <a href="https://github.com/EduardoFrancisc/java-medieval-battle">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eduardofrancisc&repo=java-medieval-battle&theme=github_dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=github_dark&username=eduardofrancisc&repo=java-medieval-battle" />
 </a>
 <a href="https://github.com/EduardoFrancisc/js-developer-pokedex">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eduardofrancisc&repo=js-developer-pokedex&theme=github_dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=github_dark&username=eduardofrancisc&repo=js-developer-pokedex" />
 </a>
 </div>
 
