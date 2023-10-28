@@ -18,8 +18,8 @@
 ## Últimos Projetos
 
 <div style = "display:inline-block">
-<a href="https://github.com/EduardoFrancisc/Java-medieval-battle">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eduardofrancisc&repo=Java-medieval-battle&theme=github_dark" />
+<a href="https://github.com/EduardoFrancisc/java-medieval-battle">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eduardofrancisc&repo=java-medieval-battle&theme=github_dark" />
 </a>
 <a href="https://www.youtube.com/watch?v=cRoBt6AZgjc">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eduardofrancisc&repo=js-developer-pokedex&theme=github_dark" />
